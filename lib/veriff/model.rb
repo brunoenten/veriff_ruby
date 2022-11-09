@@ -3,7 +3,7 @@
 module Veriff
   class Model
     def initialize(data_hash)
-      data_hash.fetch(:id)
+      #data_hash.fetch(:id)
       @data_hash = data_hash
     end
 
