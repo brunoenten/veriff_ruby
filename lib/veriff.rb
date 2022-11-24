@@ -16,6 +16,7 @@ require 'veriff/person'
 require 'veriff/session'
 require 'veriff/timestamp'
 require 'veriff/decision'
+require 'veriff/event'
 require 'veriff/watchlist_screening'
 require 'veriff/webhook'
 
